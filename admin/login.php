@@ -81,7 +81,7 @@ $fm = new formate();
             <a href="forget_password.php">forget password</a>
         </div><!-- button -->
 		<div class="button">
-			<a href="#">Training with live project</a>
+			<a href="#">well project</a>
 		</div><!-- button -->
 	</section><!-- content -->
 </div><!-- container -->
